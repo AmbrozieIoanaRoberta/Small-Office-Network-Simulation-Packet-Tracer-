@@ -1,2 +1,7 @@
-# Small-Office-Network-Simulation-Packet-Tracer-
-Designed and simulated a small office network using Cisco Packet Tracer, consisting of one router, three switches, and six PCs. Configured IP addressing, subnet masks, and default gateways to enable communication between hosts. The project demonstrates basic LAN topology design, device connectivity, and packet forwarding in a routed network.
+Small Office Network Simulation (Cisco Packet Tracer)
+
+This project consists of the design and simulation of a small office network infrastructure using Cisco Packet Tracer. The simulated topology includes one router, three switches, and six host computers, organized in a hierarchical structure similar to what is commonly found in small business environments. The purpose of the project is to demonstrate how multiple devices can be interconnected in a local area network and how communication between hosts is achieved through proper network configuration.
+
+Within the simulation, each device is connected using appropriate network links, forming a structured LAN environment. IP addresses, subnet masks, and default gateways are configured for each host, allowing the devices to communicate with each other through the router. The switches operate at Layer 2 of the OSI model, forwarding frames based on MAC addresses, while the router acts as the central gateway responsible for routing traffic between network segments.
+
+The project illustrates fundamental networking concepts such as device connectivity, packet forwarding, IP addressing, and basic network topology design. It serves as a practical exercise for understanding how routers and switches work together in a typical office network and provides hands-on experience with network configuration and troubleshooting in Cisco Packet Tracer.
